@@ -1,0 +1,16 @@
+{
+  "name": "taskManager",
+  "version": "0.0.0",
+  "authors": [
+    "Danil Lysakov <danil.lysakov@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
