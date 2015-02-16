@@ -6,6 +6,10 @@
   ],
   "license": "MIT",
   "private": true,
+  "dependencies": {
+    "angular": "*",
+    "angular-route": "*"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
